@@ -5,5 +5,10 @@ public class Merhaba {
         System.out.println("Login Testi kodları yapıldı");
 
         System.out.println("ek kod yazıldı");
+
+        for (int i = 0; i < 4; i++) {
+            System.out.println("Merhaba");
+        }
+
     }
 }
